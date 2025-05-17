@@ -1,2 +1,2 @@
-# etechapp-dev-iac
-infrastructure codes for dev systems
+# pipeline-infra
+sample pipeline approach to deploy infrastructure codes
